@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{F7BDD86B-222E-40CD-B30E-4383529EAFC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFSimpleCheckListComboBox", "WFSimpleCheckListComboBox\WFSimpleCheckListComboBox.csproj", "{2BC1AC91-1ADD-4633-8C8D-AF6F4397E343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7BDD86B-222E-40CD-B30E-4383529EAFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BDD86B-222E-40CD-B30E-4383529EAFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BDD86B-222E-40CD-B30E-4383529EAFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BDD86B-222E-40CD-B30E-4383529EAFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC1AC91-1ADD-4633-8C8D-AF6F4397E343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC1AC91-1ADD-4633-8C8D-AF6F4397E343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC1AC91-1ADD-4633-8C8D-AF6F4397E343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC1AC91-1ADD-4633-8C8D-AF6F4397E343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E506A76-C38D-49AD-8047-F28A782B6219}
+	EndGlobalSection
+EndGlobal
